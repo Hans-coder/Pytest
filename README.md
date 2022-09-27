@@ -1,6 +1,7 @@
 # 分組測試
 pytest --markers
 
+test
 
 參考資料:
 https://gitee.com/komavideo/LearnPytest
